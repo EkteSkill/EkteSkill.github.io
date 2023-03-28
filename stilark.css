@@ -26,6 +26,11 @@ button{
   padding: 10px;
   color: white;
   background-color: rgb(56, 56, 112);
-  border: 3px black solid;
+  border: 3px rgb(46, 46, 100); solid;
   border-radius: 3px;
+  transition-duration: 0.4s;
+}
+button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
 }
