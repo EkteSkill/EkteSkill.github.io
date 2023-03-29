@@ -37,6 +37,7 @@ button{
   border: 3px rgb(46, 46, 100); solid;
   border-radius: 3px;
   transition-duration: 0.4s;
+  margin:10px;
 }
 button:hover {
   background-color: white;
