@@ -11,6 +11,7 @@ body{
 #tekst{
   color: white;
   background-color: rgb(25, 25, 25);
+  text-align:left;
   width:80%;
 }
 .innhold{
