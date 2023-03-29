@@ -8,6 +8,11 @@ body{
   flex-direction: row;
   
 }
+#tekst{
+  color: white;
+  background-color: rgb(25, 25, 25);
+  width:80%;
+}
 .innhold{
   background-color: rgb(27, 27, 133);
   flex: 4;
