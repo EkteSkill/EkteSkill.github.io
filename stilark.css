@@ -13,6 +13,7 @@ body{
   background-color: rgb(25, 25, 25);
   text-align:left;
   width:80%;
+  margin:auto;
 }
 .innhold{
   background-color: rgb(27, 27, 133);
